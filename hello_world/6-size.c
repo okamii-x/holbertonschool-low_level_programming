@@ -7,10 +7,10 @@
  */
 int main(void)
 {
-sizeof(c);
+sizeof(char);
 sizeof(int);
-sizeof(long);
-sizeof(long long);
+sizeof(long int);
+sizeof(long long int);
 sizeof(float);
 return (0);
 }
