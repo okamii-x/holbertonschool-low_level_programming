@@ -12,5 +12,5 @@ sizeof (int);
 sizeof (long);
 sizeof (long long);
 sizeof (float);
-return (o);
+return (0);
 }
