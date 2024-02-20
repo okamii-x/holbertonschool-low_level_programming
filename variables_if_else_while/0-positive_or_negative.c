@@ -9,8 +9,8 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-if n>0 is positive
-if n=0 is zero
-if n< is negative	
+if n > 0 is positive
+if n = 0 is zero
+if n < 0 is negative	
 	return (0);
 }
