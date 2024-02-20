@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Entry point
+ *main- Entry point
  *
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -15,7 +15,7 @@ int main(void)
 	printf("%d", n);
 	if (n > 0);
 	{
-	   printf(" is positive\n");
+	printf(" is positive\n");
 	}
 	else if (n == 0);
 	{
